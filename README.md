@@ -38,4 +38,4 @@ A simple and elegant QR Code Generator built with HTML, CSS, and JavaScript. Thi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/qr-code-generator.git](https://github.com/MDahirAbdi/QR-Code-Generator-Website.git)
+   git clone https://github.com/MDahirAbdi/QR-Code-Generator-Website.git
