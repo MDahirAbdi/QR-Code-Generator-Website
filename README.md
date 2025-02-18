@@ -2,6 +2,9 @@
 
 A simple and elegant QR Code Generator built with HTML, CSS, and JavaScript. This tool allows users to generate QR codes for any text or URL and download the generated QR code as an image.
 
+🔗 **Live Preview:** [QR Code Generator](https://qr-code-generator-nine-weld.vercel.app/)
+
+
 ## Screenshots
 
 | Before Generating | After Generating |
