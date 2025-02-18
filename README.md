@@ -2,8 +2,12 @@
 
 A simple and elegant QR Code Generator built with HTML, CSS, and JavaScript. This tool allows users to generate QR codes for any text or URL and download the generated QR code as an image.
 
-![Before Generating QR Code](./assets/images/screenshot1.png)
-![After Generating QR Code](./assets/images/screenshot2.png)
+## Screenshots
+
+| Before Generating | After Generating |
+|------------------|------------------|
+| ![Before](./assets/images/screenshot1.png) | ![After](./assets/images/screenshot2.png) |
+
 
 ---
 
